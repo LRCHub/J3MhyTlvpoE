@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "選んだ道に幸あれ",
+  "base_artist": "HUMAN ERROR",
+  "createdAt": "2026-03-13T17:17:33.364745Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "選んだ道に幸あれ",
+      "artist": "HUMAN ERROR",
+      "has_synced": false,
+      "path": "select/pl_01_選んだ道に幸あれ_HUMAN_ERROR.txt"
+    }
+  ]
+}
